@@ -1,0 +1,6 @@
+5.170.227.11 - - [17/Oct/2016:13:06:11 +0000] "GET / HTTP/1.1" 403 202 "-" "Mozilla/5.0 (Linux; Android 6.0.1; GT-I9300 Build/MOB30Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36"
+5.170.227.11 - - [17/Oct/2016:13:06:14 +0000] "GET /favicon.ico HTTP/1.1" 404 209 "http://testjs.ormag.net/" "Mozilla/5.0 (Linux; Android 6.0.1; GT-I9300 Build/MOB30Z) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36"
+217.221.97.18 - - [18/Oct/2016:13:52:43 +0000] "GET / HTTP/1.0" 403 202 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0"
+217.221.97.18 - - [18/Oct/2016:13:52:43 +0000] "GET /favicon.ico HTTP/1.0" 404 209 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0"
+217.221.97.18 - - [18/Oct/2016:13:52:43 +0000] "GET /favicon.ico HTTP/1.0" 404 209 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0"
+217.221.97.18 - - [19/Oct/2016:10:07:58 +0000] "GET / HTTP/1.0" 403 202 "http://192.168.20.1:12082/cgi-bin/zscp" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0"
